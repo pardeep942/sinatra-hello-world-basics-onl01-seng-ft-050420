@@ -1,4 +1,4 @@
-reuire './config/enviroment'
+reuire '../config/enviroment'
 
 class App < Sinatra::Base
 
