@@ -8,3 +8,4 @@ class App < Sinatra::Base
     erb :"Hello, World!"
 
   end
+end
